@@ -32,7 +32,7 @@ perusahaan agen real estate dapat menentukan harga yang kompetitif dengan apartm
 3. Akurasi nya yang diperoleh dari best model menggunakan MAE 36.685 won
 4. Fitur yang paling berpengaruh terhadap harga apartemen di Daegu adalah Hallway Type Mixed
 5. Keuntungan nya menggunakan ML sebanyak 77.037 won
-![image](https://github.com/user-attachments/assets/05b0aac8-4b5e-4ddf-9238-1a58e68b5e54)
+
 
 
 
